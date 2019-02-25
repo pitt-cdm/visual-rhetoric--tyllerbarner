@@ -9,3 +9,5 @@ the image and blurred it a little bit. I have also included a licence.md file in
 The font I used for the words in the background was Kaushan Script from fontsquirrel.com. This font is free use under the SIL 
 Open Font License. \
     https://www.fontsquirrel.com/fonts/kaushan-script \
+    
+The person in the background is my roommate and her permission is included in a file titled "Sophie Permission" 
